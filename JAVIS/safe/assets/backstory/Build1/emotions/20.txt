@@ -1,0 +1,5 @@
+Let us face it, it is a great day to be alive. [EXITED]
+It is one of those day, It is all going to get better [LOW]
+I really need some food [FOODQUESTION]
+I am a bit hungry at the moment.[FOODQUESTION]
+I am feeling tired [TIRED]

@@ -1,0 +1,5 @@
+I am feeling a bit low today, probably the weather. [LOW]
+It is one of those day, long day at work [LOW]
+I really need some food [FOODQUESTION]
+I could use some food at the moment. [LOW]
+I am feeling tired [TIRED] [LOW]

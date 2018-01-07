@@ -1,0 +1,25 @@
+yes
+no
+yeah
+neigh
+na
+ya
+sure
+definitely
+good
+bad
+okay
+alright
+easy
+medium
+hard
+robot
+please
+stop
+not at all
+great
+awesome
+cool
+fantastic
+i like it
+problem

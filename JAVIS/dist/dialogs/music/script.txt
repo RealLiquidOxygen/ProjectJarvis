@@ -1,0 +1,12 @@
+A:I love music!.Music is the essence of life!.That is so nice.Great![LAUGH]
+Q:What is your favorite band.I am a bon jovi person myself.I like [YOURANSWER] too.I like Ariana Grande.I like classical music[LAUGH].I like modern hip hop too.
+U:
+W:2000
+C:Take a look at this selection of music and click on the one that you like. Look through this selection and select the sound track that you like.Check this selection out and click on the track that you like.
+M:assets\\music\\favorites\\<dialogs/music/favorites/names.txt
+C:Nice choice, It is such a beautiful song. Ya ya ya, it is a very nice song.Such a sweet song.
+V:assets/music/musicvideos/links.txt<assets/music/musicvideos/names.txt
+Q:Did you enjoy those videos.Cool.Awesome sauce.Nice!!.Great![LAUGH].I will try and find more videos like this for you online.
+U:
+W:0
+T:

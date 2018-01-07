@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><rss version="2.0">
+<channel>
+	<title>The Weather Network - Plymouth, Minnesota</title>
+	<link>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</link>
+	<description>The Weather Network - Canada's number one source for weather information in both the cable and web spaces.</description>
+	<copyright>Copyright The Weather Network. Use of this RSS feed is subject to the Terms of Use as defined at http://www.theweathernetwork.com/aboutus/copyright#rss</copyright>
+	<language>en-us</language>
+	<image>
+		<url>http://www.theweathernetwork.com/common/images/rss/rss/rss_logo_en.jpg</url>
+		<title>The Weather Network - Plymouth, Minnesota</title>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</link>
+	</image>
+	<image>
+		<url>http://rss.counter.weather.ca/counter.gif</url>
+		<title>The Weather Network - Plymouth, Minnesota</title>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</link>
+	</image>
+		<item>
+		<title>Current Weather</title>
+		<guid>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</guid>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</link>
+		<pubDate>Sun, 13 Aug 2017 23:00:00 -0400</pubDate>
+		<description>Light rain,
+		17&amp;nbsp;&amp;deg;C		, Humidity		83%		, Wind		calm		</description>
+	</item>
+			<item>
+		<title>Friday, August 18, 2017</title>
+		<guid>http://www.theweathernetwork.com/weather/usmn0254?ref=day1#ltermfx</guid>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=day1#ltermfx</link>
+		<pubDate>Thu, 17 Aug 2017 05:05:00 -0400</pubDate>
+		<description>
+		Chance of thunder- showers,
+		High  25&amp;nbsp;&amp;deg;C, Low  16&amp;nbsp;&amp;deg;C, P.O.P.  40%		</description>
+	</item>
+	<item>
+		<title>Saturday, August 19, 2017</title>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=day2#ltermfx</link>
+		<guid>http://www.theweathernetwork.com/weather/usmn0254?ref=day2#ltermfx</guid>
+		<pubDate>Thu, 17 Aug 2017 05:05:00 -0400</pubDate>
+		<description>
+		Mainly sunny,
+		High 26&amp;nbsp;&amp;deg;C, Low 19&amp;nbsp;&amp;deg;C, P.O.P. 10%		</description>
+	</item>
+	<item>
+		<title>Sunday, August 20, 2017</title>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=day3#ltermfx</link>
+		<guid>http://www.theweathernetwork.com/weather/usmn0254?ref=day3#ltermfx</guid>
+		<pubDate>Thu, 17 Aug 2017 05:05:00 -0400</pubDate>
+		<description>
+		Isolated showers,
+		High 28&amp;nbsp;&amp;deg;C, Low 20&amp;nbsp;&amp;deg;C, P.O.P. 40%		</description>
+	</item>
+    	</channel>
+</rss>

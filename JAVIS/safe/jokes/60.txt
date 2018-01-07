@@ -1,0 +1,4 @@
+[Knock] [AwaitReply] NextReply=Cows go TextLink=No, silly! Cows go moo PictureLink=assets/jokeImages/moo.jpg
+[Knock] [AwaitReply] NextReply=To TextLink=To whom. PictureLink=assets/jokeImages/whom.jpg
+[Knock] [AwaitReply] NextReply=Little old lady TextLink=I didn't know you could yodel PictureLink=assets/jokeImages/yodel.jpg
+[Knock] [AwaitReply] NextReply=Nana. TextLink=Nanna your business PictureLink=assets/jokeImages/nana.jpg

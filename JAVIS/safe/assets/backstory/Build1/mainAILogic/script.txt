@@ -1,0 +1,5 @@
+X:2017-08-17T08:30<getmorningstats
+C:Hi, how are you?. Howdy, how's it going?.[GREETINGS]
+Q:I am [AINAME] what is your name.It's nice to meet you [USER] .Hi [USER] .I am glad to meet you [LAUGH] .It is wonderful to meet you [USER] .Nice shirt! [USER] .
+U:
+T:

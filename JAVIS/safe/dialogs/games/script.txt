@@ -1,0 +1,7 @@
+A:I love playing video games!.Video games is the essence of college!.That is so nice.Great![LAUGH]
+Q:What is your favorite video game to play.I am a Halo person myself.I like [YOURANSWER] too.I like dungeons and dragon.I like old classical game[LAUGH].I like call of duty three.
+U:
+W:2000
+C:Take a look at this selection of games and click on the one that you like. Look through this selection and select the game that you like.Check this selection out and click on the game that you like.
+W:0
+T:

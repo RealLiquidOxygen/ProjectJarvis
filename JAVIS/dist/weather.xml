@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><rss version="2.0">
+<channel>
+	<title>The Weather Network - Plymouth, Minnesota</title>
+	<link>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</link>
+	<description>The Weather Network - Canada's number one source for weather information in both the cable and web spaces.</description>
+	<copyright>Copyright The Weather Network. Use of this RSS feed is subject to the Terms of Use as defined at http://www.theweathernetwork.com/aboutus/copyright#rss</copyright>
+	<language>en-us</language>
+	<image>
+		<url>http://www.theweathernetwork.com/common/images/rss/rss/rss_logo_en.jpg</url>
+		<title>The Weather Network - Plymouth, Minnesota</title>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</link>
+	</image>
+	<image>
+		<url>http://rss.counter.weather.ca/counter.gif</url>
+		<title>The Weather Network - Plymouth, Minnesota</title>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</link>
+	</image>
+		<item>
+		<title>Current Weather</title>
+		<guid>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</guid>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=current_obs</link>
+		<pubDate>Thu, 24 Aug 2017 02:00:00 -0400</pubDate>
+		<description>A few clouds,
+		13&amp;nbsp;&amp;deg;C		, Humidity		82%		, Wind		calm		</description>
+	</item>
+			<item>
+		<title>Monday, August 28, 2017</title>
+		<guid>http://www.theweathernetwork.com/weather/usmn0254?ref=day1#ltermfx</guid>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=day1#ltermfx</link>
+		<pubDate>Sun, 27 Aug 2017 09:00:00 -0400</pubDate>
+		<description>
+		Variable cloudiness,
+		High  22&amp;nbsp;&amp;deg;C, Low  13&amp;nbsp;&amp;deg;C, P.O.P.  30%		</description>
+	</item>
+	<item>
+		<title>Tuesday, August 29, 2017</title>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=day2#ltermfx</link>
+		<guid>http://www.theweathernetwork.com/weather/usmn0254?ref=day2#ltermfx</guid>
+		<pubDate>Sun, 27 Aug 2017 09:00:00 -0400</pubDate>
+		<description>
+		Cloudy periods,
+		High 24&amp;nbsp;&amp;deg;C, Low 14&amp;nbsp;&amp;deg;C, P.O.P. 20%		</description>
+	</item>
+	<item>
+		<title>Wednesday, August 30, 2017</title>
+		<link>http://www.theweathernetwork.com/weather/usmn0254?ref=day3#ltermfx</link>
+		<guid>http://www.theweathernetwork.com/weather/usmn0254?ref=day3#ltermfx</guid>
+		<pubDate>Sun, 27 Aug 2017 09:00:00 -0400</pubDate>
+		<description>
+		Mainly sunny,
+		High 27&amp;nbsp;&amp;deg;C, Low 13&amp;nbsp;&amp;deg;C, P.O.P. 10%		</description>
+	</item>
+    	</channel>
+</rss>

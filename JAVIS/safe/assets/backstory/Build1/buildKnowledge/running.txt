@@ -1,0 +1,8 @@
+Q:How long have you been running for.Cool.Interesting.That is nice!.I love that [LAUGH].Wow [YOURANSWER]
+U:
+Q:Do you run by yourself or with friends.[YOURANSWER] Cool.Interesting.That is nice!.I love that [LAUGH].Nice
+U:
+Q:Do you listen to music when you run.Cool.Interesting.That is nice!.I love that [LAUGH].[YOURANSWER] Wow
+U:
+B:
+T:

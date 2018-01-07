@@ -1,0 +1,6 @@
+arts art<dialogs/arts/script.txt
+car cars<dialogs/cars/script.txt
+game games<dialogs/games/script.txt
+music musics<dialogs/music/script.txt
+flower flowers<assets/backstory/Build1/buildKnowledge/flowerscript.txt
+run running<assets/backstory/Build1/buildKnowledge/running.txt

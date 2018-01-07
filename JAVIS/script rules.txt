@@ -1,0 +1,16 @@
+A: stands for excitment 4 AWESOME STUFF
+Q: stands for question 1 QUESTION 5 ANSWER 
+U: stands for user answer [QU GOES TOGETHER]
+C: computer response 3 lines expected. Can trigger a QU when have ? or greeting when [GREETING]
+W: stand for wait TIME IN MILLISECOND
+G:location of images<location of text for each image.
+M: music
+V: datalocation<name location
+I: mouse movement
+K: keyboard typing
+T: terminate
+S: subscript
+B: find a command topic - [BU GOES TOGETHER]
+J: JOKES
+F: relative location of emergency image to display - 5 second display
+V: activate Artifical mood changes.

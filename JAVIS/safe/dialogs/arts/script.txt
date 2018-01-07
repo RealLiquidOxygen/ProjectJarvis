@@ -1,0 +1,11 @@
+A:Artworks are my favorite!.I love arts!.That is so nice.Great![LAUGH]
+Q:What is your favorite artwork.I am a Van gogh person myself.I like [YOURANSWER] too.I like Leonardo Da Vinci.I like classical Arts[LAUGH].I like modern Arts too.
+U:
+W:2000
+C:Take a look at this selection and click on the piece of artwork that you like. Look through this selection and select the artwork that you like.Check this selection out and click on the art piece that you like.
+G:assets\\arts\\paintings\\mostpopular\\<dialogs/arts/paintings/mostpopular/names.txt
+C:Nice choice, It is such a lovely piece of art.Interesting choice, it is a very expensive artwork.Such a sweet choice.
+C:Let us compare two artists.Who between this two artists do you prefer.Who do you like most between this two artists.
+G:assets\\arts\\compare\\<dialogs/arts/compare/vanremname.txt
+W:0
+T:

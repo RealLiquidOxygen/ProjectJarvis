@@ -1,0 +1,4 @@
+I am a little bit excited at the moment. [EXITED]
+I feel like everything is going on well. [HOPEFUL]
+I really need some food [FOODQUESTION] [ANGRY]
+I am a little bit stressed. [TIRED]

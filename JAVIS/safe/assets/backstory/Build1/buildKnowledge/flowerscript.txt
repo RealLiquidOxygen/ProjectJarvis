@@ -1,0 +1,10 @@
+A:Keep love in your heart; A life without it is like a sunless garden when the flowers are dead.The earth laughs in flowers!.Flowers are lovely.Deep in their roots, all flowers keep the light![LAUGH]
+Q:What is really your favorite flower.I like lilies.I like [YOURANSWER] too.I really like lilies.I love lilies[LAUGH].Lilies are my favorite.
+U:
+W:2000
+F:assets\\backstory\\Build1\\buildImages\\lily.JPG
+W:2000
+C:Take a look at this lily. Isn't this lilly pretty?.Oh, there is a lily.
+Q:You still want to talk more about flowers, huh.Cool.Awesome sauce.Nice!!.Great![LAUGH].I will try and find more flowers like this for you online.
+U:
+T: 

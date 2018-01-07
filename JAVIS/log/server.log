@@ -1,0 +1,198 @@
+2017-01-21 03:38:30,040 [Thread-9] INFO  marytts.main Mary starting up...
+2017-01-21 03:38:30,056 [Thread-9] INFO  marytts.main Specification version 5.2
+2017-01-21 03:38:30,056 [Thread-9] INFO  marytts.main Implementation version unknown
+2017-01-21 03:38:30,056 [Thread-9] INFO  marytts.main Running on a Java 1.8.0_101 implementation by Oracle Corporation, on a Windows 10 platform (amd64, 10.0)
+2017-01-21 03:38:30,307 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.de.JTokeniser'
+2017-01-21 03:38:30,322 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.de.Preprocess'
+2017-01-21 03:38:30,322 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.OpenNLPPosTagger(de,de.pos)'
+2017-01-21 03:38:30,322 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.de.JPhonemiser'
+2017-01-21 03:38:30,322 [Thread-9] INFO  marytts.JPhonemiser_de User dictionary '.\user-dictionaries\userdict-de.txt' for locale 'de' does not exist. Ignoring.
+2017-01-21 03:38:30,354 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.de.Prosody'
+2017-01-21 03:38:30,354 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.de.Postlex'
+2017-01-21 03:38:30,369 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.SimplePhoneme2AP(de)'
+2017-01-21 03:38:30,369 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.en.JTokeniser'
+2017-01-21 03:38:30,369 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.en.Preprocess'
+2017-01-21 03:38:30,683 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JPhonemiser(en_US.)'
+2017-01-21 03:38:30,684 [Thread-9] INFO  marytts.JPhonemiser User dictionary '.\user-dictionaries\userdict-en_US.txt' for locale 'en_US' does not exist. Ignoring.
+2017-01-21 03:38:30,721 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JPhonemiser(en_GB.)'
+2017-01-21 03:38:30,721 [Thread-9] INFO  marytts.JPhonemiser User dictionary '.\user-dictionaries\userdict-en_GB.txt' for locale 'en_GB' does not exist. Ignoring.
+2017-01-21 03:38:30,768 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.en.Prosody'
+2017-01-21 03:38:30,768 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.SimplePhoneme2AP(en_US)'
+2017-01-21 03:38:30,768 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.en.PronunciationModel'
+2017-01-21 03:38:30,768 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.OpenNLPPosTagger(en,en.pos)'
+2017-01-21 03:38:30,768 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.fr.Phonemiser'
+2017-01-21 03:38:30,784 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.fr.Preprocess'
+2017-01-21 03:38:30,784 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.MinimalisticPosTagger(fr,fr.)'
+2017-01-21 03:38:30,799 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.it.JTokeniser'
+2017-01-21 03:38:30,799 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.it.Preprocess'
+2017-01-21 03:38:30,799 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JPhonemiser(it.)'
+2017-01-21 03:38:30,815 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.OpenNLPPosTagger(it,it.pos)'
+2017-01-21 03:38:30,815 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.it.Prosody'
+2017-01-21 03:38:30,815 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.it.Postlex'
+2017-01-21 03:38:30,815 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.lb.LuxembourgishPreprocess'
+2017-01-21 03:38:31,286 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.lb.EvenMoreMinimalisticPosTagger(lb)'
+2017-01-21 03:38:31,302 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.lb.LuxembourgishPhonemiser'
+2017-01-21 03:38:31,302 [Thread-9] INFO  marytts.JPhonemiser User dictionary '.\user-dictionaries\userdict-lb.txt' for locale 'lb' does not exist. Ignoring.
+2017-01-21 03:38:31,317 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.ru.Tokenizer'
+2017-01-21 03:38:31,317 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.DummyTokens2Words'
+2017-01-21 03:38:31,317 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JPhonemiser(ru.)'
+2017-01-21 03:38:31,317 [Thread-9] INFO  marytts.JPhonemiser User dictionary '.\user-dictionaries\userdict-ru.txt' for locale 'ru' does not exist. Ignoring.
+2017-01-21 03:38:31,317 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.ProsodyGeneric'
+2017-01-21 03:38:31,317 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.MinimalisticPosTagger(ru,ru)'
+2017-01-21 03:38:31,317 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JPhonemiser(sv.)'
+2017-01-21 03:38:31,317 [Thread-9] INFO  marytts.JPhonemiser User dictionary '.\user-dictionaries\userdict-sv.txt' for locale 'sv' does not exist. Ignoring.
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.MinimalisticPosTagger(sv,sv.)'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.te.JTokeniser'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.DummyTokens2Words'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.te.JPhonemiser(te.)'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.JPhonemiser User dictionary '.\user-dictionaries\userdict-te.txt' for locale 'te' does not exist. Ignoring.
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.ProsodyGeneric'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.MinimalisticPosTagger(te,te)'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JPhonemiser(tr.)'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.MinimalisticPosTagger(tr,tr.)'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.Synthesis'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.TextToMaryXML'
+2017-01-21 03:38:31,333 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.SableParser'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.SSMLParser'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.APMLParser'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.EmotionmlParser'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JTokeniser'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.DummyTokens2Words'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.ProsodyGeneric'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.PronunciationModel'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.TargetFeatureLister'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.HalfPhoneTargetFeatureLister'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.AcousticModeller'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.RealisedAcoustparamsExtractor'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.RealisedDurationsExtractor'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.HTSEngine'
+2017-01-21 03:38:31,349 [Thread-9] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.PraatTextGridGenerator'
+2017-01-21 03:38:31,364 [Thread-9] INFO  marytts.JTokeniser Module started (RAWMARYXML->TOKENS, locale de).
+2017-01-21 03:38:31,411 [Thread-9] INFO  marytts.JTokeniser Starting power-on self test.
+2017-01-21 03:38:31,427 [Thread-9] INFO  marytts.JTokeniser Power-on self test complete.
+2017-01-21 03:38:31,427 [Thread-9] INFO  marytts.Preprocess Module started (TOKENS->WORDS, locale de).
+2017-01-21 03:38:31,427 [Thread-9] INFO  marytts.Preprocess Starting power-on self test.
+2017-01-21 03:38:31,427 [Thread-9] INFO  marytts.Preprocess Expanding say-as elements...
+2017-01-21 03:38:31,427 [Thread-9] INFO  marytts.Preprocess Matching and expanding patterns...
+2017-01-21 03:38:31,474 [Thread-9] INFO  marytts.Preprocess Done.
+2017-01-21 03:38:31,474 [Thread-9] INFO  marytts.Preprocess Power-on self test complete.
+2017-01-21 03:38:31,474 [Thread-9] INFO  marytts.OpenNLPPosTagger Module started (WORDS->PARTSOFSPEECH, locale de).
+2017-01-21 03:38:32,093 [Thread-9] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2017-01-21 03:38:32,095 [Thread-9] INFO  marytts.OpenNLPPosTagger Power-on self test complete.
+2017-01-21 03:38:32,095 [Thread-9] INFO  marytts.JPhonemiser_de Module started (PARTSOFSPEECH->PHONEMES, locale de).
+2017-01-21 03:38:32,106 [Thread-9] INFO  marytts.JPhonemiser_de Starting power-on self test.
+2017-01-21 03:38:32,122 [Thread-9] INFO  marytts.JPhonemiser_de Power-on self test complete.
+2017-01-21 03:38:32,138 [Thread-9] INFO  marytts.Prosody Module started (PHONEMES->INTONATION, locale de).
+2017-01-21 03:38:32,138 [Thread-9] INFO  marytts.Prosody Starting power-on self test.
+2017-01-21 03:38:32,144 [Thread-9] INFO  marytts.Prosody Power-on self test complete.
+2017-01-21 03:38:32,144 [Thread-9] INFO  marytts.PronunciationModel Module started (INTONATION->ALLOPHONES, locale de).
+2017-01-21 03:38:32,145 [Thread-9] INFO  marytts.PronunciationModel Starting power-on self test.
+2017-01-21 03:38:32,148 [Thread-9] INFO  marytts.PronunciationModel Power-on self test complete.
+2017-01-21 03:38:32,152 [Thread-9] INFO  marytts.SimplePhoneme2AP Module started (SIMPLEPHONEMES->ACOUSTPARAMS, locale de).
+2017-01-21 03:38:32,152 [Thread-9] INFO  marytts.SimplePhoneme2AP Starting power-on self test.
+2017-01-21 03:38:32,152 [Thread-9] INFO  marytts.SimplePhoneme2AP Power-on self test complete.
+2017-01-21 03:38:32,152 [Thread-9] INFO  marytts.JTokeniser Module started (RAWMARYXML->TOKENS, locale en).
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.JTokeniser Starting power-on self test.
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.JTokeniser Power-on self test complete.
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.Preprocess Module started (TOKENS->WORDS, locale en).
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.Preprocess Starting power-on self test.
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.Preprocess Power-on self test complete.
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale en_US).
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.JPhonemiser Starting power-on self test.
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.JPhonemiser Power-on self test complete.
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale en_GB).
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.JPhonemiser Starting power-on self test.
+2017-01-21 03:38:32,183 [Thread-9] INFO  marytts.JPhonemiser Power-on self test complete.
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.Prosody Module started (PHONEMES->INTONATION, locale en).
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.Prosody Starting power-on self test.
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.Prosody Power-on self test complete.
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.SimplePhoneme2AP Module started (SIMPLEPHONEMES->ACOUSTPARAMS, locale en_US).
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.SimplePhoneme2AP Starting power-on self test.
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.SimplePhoneme2AP Power-on self test complete.
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.PronunciationModel Module started (INTONATION->ALLOPHONES, locale en).
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.PronunciationModel Starting power-on self test.
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.PronunciationModel Power-on self test complete.
+2017-01-21 03:38:32,199 [Thread-9] INFO  marytts.OpenNLPPosTagger Module started (WORDS->PARTSOFSPEECH, locale en).
+2017-01-21 03:38:33,056 [Thread-9] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2017-01-21 03:38:33,056 [Thread-9] INFO  marytts.OpenNLPPosTagger Power-on self test complete.
+2017-01-21 03:38:33,056 [Thread-9] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale fr).
+2017-01-21 03:38:33,072 [Thread-9] INFO  marytts.JPhonemiser Starting power-on self test.
+2017-01-21 03:38:33,072 [Thread-9] INFO  marytts.JPhonemiser Power-on self test complete.
+2017-01-21 03:38:33,072 [Thread-9] INFO  marytts.Preprocess Module started (TOKENS->WORDS, locale fr).
+2017-01-21 03:38:33,072 [Thread-9] INFO  marytts.Preprocess Starting power-on self test.
+2017-01-21 03:38:33,072 [Thread-9] INFO  marytts.Preprocess Power-on self test complete.
+2017-01-21 03:38:33,072 [Thread-9] INFO  marytts.OpenNLPPosTagger Module started (WORDS->PARTSOFSPEECH, locale fr).
+2017-01-21 03:38:33,072 [Thread-9] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2017-01-21 03:38:33,072 [Thread-9] INFO  marytts.OpenNLPPosTagger Power-on self test complete.
+2017-01-21 03:38:33,072 [Thread-9] INFO  marytts.JTokeniser Module started (RAWMARYXML->TOKENS, locale it).
+2017-01-21 03:38:33,087 [Thread-9] INFO  marytts.JTokeniser Starting power-on self test.
+2017-01-21 03:38:33,087 [Thread-9] INFO  marytts.JTokeniser Power-on self test complete.
+2017-01-21 03:38:33,087 [Thread-9] INFO  marytts.Preprocess Module started (TOKENS->WORDS, locale it).
+2017-01-21 03:38:33,087 [Thread-9] INFO  marytts.Preprocess Starting power-on self test.
+2017-01-21 03:38:33,087 [Thread-9] INFO  marytts.Preprocess Expanding say-as elements...
+2017-01-21 03:38:33,087 [Thread-9] INFO  marytts.Preprocess Matching and expanding patterns...
+2017-01-21 03:38:33,103 [Thread-9] INFO  marytts.Preprocess Done.
+2017-01-21 03:38:33,103 [Thread-9] INFO  marytts.Preprocess Power-on self test complete.
+2017-01-21 03:38:33,103 [Thread-9] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale it).
+2017-01-21 03:38:33,103 [Thread-9] INFO  marytts.JPhonemiser Starting power-on self test.
+2017-01-21 03:38:33,103 [Thread-9] INFO  marytts.JPhonemiser Power-on self test complete.
+2017-01-21 03:38:33,103 [Thread-9] INFO  marytts.OpenNLPPosTagger Module started (WORDS->PARTSOFSPEECH, locale it).
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.OpenNLPPosTagger Power-on self test complete.
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.Prosody Module started (PHONEMES->INTONATION, locale it).
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.Prosody Starting power-on self test.
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.Prosody Power-on self test complete.
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.PronunciationModel Module started (INTONATION->ALLOPHONES, locale it).
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.PronunciationModel Starting power-on self test.
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.PronunciationModel Power-on self test complete.
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.LuxembourgishPreprocess Module started (TOKENS->WORDS, locale lb).
+2017-01-21 03:38:33,213 [Thread-9] INFO  marytts.LuxembourgishPreprocess Starting power-on self test.
+2017-01-21 03:38:33,736 [Thread-9] INFO  marytts.LuxembourgishPreprocess Power-on self test complete.
+2017-01-21 03:38:33,736 [Thread-9] INFO  marytts.language.lb.EvenMoreMinimalisticPosTagger Module started (WORDS -> PARTSOFSPEECH, locale lb).
+2017-01-21 03:38:33,736 [Thread-9] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2017-01-21 03:38:33,736 [Thread-9] INFO  marytts.OpenNLPPosTagger Power-on self test complete.
+2017-01-21 03:38:33,736 [Thread-9] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale lb).
+2017-01-21 03:38:33,736 [Thread-9] INFO  marytts.JPhonemiser Starting power-on self test.
+2017-01-21 03:38:33,736 [Thread-9] INFO  marytts.JPhonemiser Power-on self test complete.
+2017-01-21 03:38:33,736 [Thread-9] INFO  marytts.JTokeniser Module started (RAWMARYXML->TOKENS, locale ru).
+2017-01-21 03:38:33,752 [Thread-9] INFO  marytts.JTokeniser Starting power-on self test.
+2017-01-21 03:38:33,752 [Thread-9] INFO  marytts.JTokeniser Power-on self test complete.
+2017-01-21 03:38:33,752 [Thread-9] INFO  marytts.DummyTokens2Words Module started (TOKENS->WORDS, locale null).
+2017-01-21 03:38:33,752 [Thread-9] INFO  marytts.DummyTokens2Words Starting power-on self test.
+2017-01-21 03:38:33,752 [Thread-9] INFO  marytts.DummyTokens2Words Power-on self test complete.
+2017-01-21 03:38:33,752 [Thread-9] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale ru).
+2017-01-21 03:38:33,752 [Thread-9] INFO  marytts.JPhonemiser Starting power-on self test.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.JPhonemiser Power-on self test complete.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.Prosody Module started (PHONEMES->INTONATION, locale null).
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.Prosody Starting power-on self test.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.Prosody Power-on self test complete.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.OpenNLPPosTagger Module started (WORDS->PARTSOFSPEECH, locale ru).
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.OpenNLPPosTagger Power-on self test complete.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale sv).
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.JPhonemiser Starting power-on self test.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.JPhonemiser Power-on self test complete.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.OpenNLPPosTagger Module started (WORDS->PARTSOFSPEECH, locale sv).
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.OpenNLPPosTagger Power-on self test complete.
+2017-01-21 03:38:33,768 [Thread-9] INFO  marytts.JTokeniser Module started (RAWMARYXML->TOKENS, locale te).
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.JTokeniser Starting power-on self test.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.JTokeniser Power-on self test complete.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.DummyTokens2Words Module started (TOKENS->WORDS, locale null).
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.DummyTokens2Words Starting power-on self test.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.DummyTokens2Words Power-on self test complete.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale te).
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.JPhonemiser Starting power-on self test.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.JPhonemiser Power-on self test complete.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.Prosody Module started (PHONEMES->INTONATION, locale null).
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.Prosody Starting power-on self test.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.Prosody Power-on self test complete.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.OpenNLPPosTagger Module started (WORDS->PARTSOFSPEECH, locale te).
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.OpenNLPPosTagger Power-on self test complete.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale tr).
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.JPhonemiser Starting power-on self test.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.JPhonemiser Power-on self test complete.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.OpenNLPPosTagger Module started (WORDS->PARTSOFSPEECH, locale tr).
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2017-01-21 03:38:33,783 [Thread-9] INFO  marytts.OpenNLPPosTagger Power-on self test complete.

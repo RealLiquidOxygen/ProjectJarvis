@@ -1,0 +1,16 @@
+[Knock] [AwaitReply] NextReply=A broken pencil TextLink=Never mind. It's pointless PictureLink=assets/jokeImages/pencil.jpg
+[Knock] [AwaitReply] NextReply=Europe TextLink=No, you're a poo! PictureLink=assets/jokeImages/poo.jpg
+[Knock] [AwaitReply] NextReply=Theodore! TextLink=Theodore wasn't open so I knocked PictureLink=assets/jokeImages/theo.jpg
+[Knock] [AwaitReply] NextReply=Amos TextLink=A mosquito PictureLink=assets/jokeImages/mos.jpg
+[Knock] [AwaitReply] NextReply=Al. TextLink=Al give you a kiss if you open this door PictureLink=assets/jokeImages/kiss.jpg
+[Knock] [AwaitReply] NextReply=Cows go TextLink=No, silly! Cows go moo PictureLink=assets/jokeImages/moo.jpg
+[Knock] [AwaitReply] NextReply=To TextLink=To whom. PictureLink=assets/jokeImages/whom.jpg
+[Knock] [AwaitReply] NextReply=Little old lady TextLink=I didn't know you could yodel PictureLink=assets/jokeImages/yodel.jpg
+[Knock] [AwaitReply] NextReply=Nana. TextLink=Nanna your business PictureLink=assets/jokeImages/nana.jpg
+[Knock] [AwaitReply] NextReply=Etch. TextLink=Bless you! PictureLink=assets/jokeImages/bless.jpg
+[Knock] [AwaitReply] NextReply=Police. TextLink=Police hurry up, it's chilly out here. PictureLink=assets/jokeImages/police.jpg
+[Knock] [AwaitReply] NextReply=Euripides. TextLink=Euripides jeans, you pay for them. PictureLink=assets/jokeImages/jeans.jpg
+[Knock] [AwaitReply] NextReply=Mikey TextLink=Mikey doesn't fit in the keyhole. PictureLink=assets/jokeImages/key.jpg
+[Knock] [AwaitReply] NextReply=Olive! TextLink=Olive you. PictureLink=assets/jokeImages/olive.jpg
+[Knock] [AwaitReply] NextReply=A broken pencil who TextLink=Never mind. It's pointless PictureLink=assets/jokeImages/pencil.jpg
+[Knock] [AwaitReply] NextReply=A broken pencil who TextLink=Never mind. It's pointless PictureLink=assets/jokeImages/pencil.jpg

@@ -1,0 +1,12 @@
+A:Cars are my favorite!.I love cars too!.That is so nice.Great![LAUGH]
+Q:What is your favorite car brand.I am a ford person myself.I like [YOURANSWER] too.I like BMW.I like classical cars[LAUGH].I like modern cars too.
+U:
+W:2000
+C:Take a look at this selection and click on the car that you like. Look through this selection and select the vehicle that you like.Check this selection out and click on the car that you like.
+G:assets\\cars\\mostexpensive\\<dialogs/cars/mostexpensive/names.txt
+C:Nice choice, It is such a lovely car. Interesting choice, it is a very expensive car.Such a sweet ride.
+V:dialogs/cars/compare/bmwaudilink.txt<dialogs/cars/compare/bmwaudiname.txt
+Q:Did you enjoy those videos.Cool.Awesome sauce.Nice!!.Great![LAUGH].I will try and find more videos like this for you online.
+U:
+W:0
+T: 
