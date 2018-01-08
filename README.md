@@ -1,4 +1,4 @@
-# ProjectJarvis
+# Project Jarvis
 This is an artificial intelligence simulation program. It is a home assistant. It is a simulation of my favorite doctor who character (Amy Pond). It works just like Siri or Cortana, it is written in Java and PHP.
 
 Summary:
